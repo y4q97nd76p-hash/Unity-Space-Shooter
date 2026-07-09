@@ -1,3 +1,5 @@
+<img width="328" height="592" alt="Снимок экрана 2026-07-09 170033" src="https://github.com/user-attachments/assets/6d024afd-2231-482d-9899-3b7c6f7f0f8c" />
+<img width="332" height="590" alt="Снимок экрана 2026-07-09 170028" src="https://github.com/user-attachments/assets/a0a6ffa8-293b-4a15-a5c5-77682d49d23c" />
 # Unity-Space-Shooter
 # 🚀 Space Shooter - Joc Unity
 
