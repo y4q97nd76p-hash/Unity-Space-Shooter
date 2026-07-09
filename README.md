@@ -31,9 +31,11 @@ Au existat o mulțime de erori, în special la mișcare, generare și repornire.
 - **Unity 6**
 - **C#**
 - TextMeshPro
-- Fizică 2D
+- Fizică 2D și 3D
 
-## Capturi de ecran
 
 ## Demo video
-[Urmăriți videoclipul](inserați linkul YouTube)
+https://www.youtube.com/watch?v=FAcODBy_liw
+
+## Link la joc
+https://drive.google.com/drive/folders/16prYDVwJuJvoaRYYWLEEkdlakTP6aQOD?usp=sharing
